@@ -1,16 +1,38 @@
-[Women's Rights](#womensrights)
+### Description
 
-## Description
-A repo for collecting information about resources and opportunities for activism. PRs welcome.
+A repo for collecting information about resources and opportunities for activism. PRs welcome as always.
 
 
-[Issue Voter](http://issuevoter.org/?mc_cid=a72f38e663&mc_eid=59898ad147)
+&nbsp;
 
-[RISE: citizen watchdog organization](http://www.risewhenwefall.org/)
 
-[Rally + Rise](https://www.rallyandrise.org/)
+### Sections
 
-[New York Cares: organization pairing people with volunteering opportunities](https://www.newyorkcares.org/)
+[General Resources](#general)
+
+[Women's Rights](#women)
+
+[Environmental Rights](#environmental)
+
+[Immigration Rights](#immigration)
+
+[LGBTQ Rights](#lgbtq)
+
+[African American Rights](#africanamerican)
+
+
+&nbsp;
+
+
+### <a name="general">General Resources</a>
+
+[Issue Voter](http://issuevoter.org/?mc_cid=a72f38e663&mc_eid=59898ad147) - App for receiving alerts before a bill passes on topics you care about, contact your representative directly to express your opinion.
+
+[RISE: citizen watchdog organization](http://www.risewhenwefall.org/) - The largest citizen watchdog organization in the US.
+
+[Rally + Rise](https://www.rallyandrise.org/) - New York City focused organization for organizing New Yorkers and lobbying our local government.
+
+[New York Cares: organization pairing people with volunteering opportunities](https://www.newyorkcares.org/) - Website for finding opportunities to volunteer in your community based on location, availability and areas that you are passionate about.
 
 [AmericaCorps](https://www.nationalservice.gov/programs/americorps)
 
@@ -28,8 +50,9 @@ A repo for collecting information about resources and opportunities for activism
 
 [Fact Checker Website](https://github.com/EricSchles/fact_checker_website)
 
+&nbsp;
 
-<a name="womensrights">Women's Rights</a>
+### <a name="women">Women's Rights</a>
 
 [She Should Run](http://incubator.sheshouldrun.org/?mc_cid=a72f38e663&mc_eid=59898ad147)
 
@@ -43,7 +66,8 @@ A repo for collecting information about resources and opportunities for activism
 
 [National Coalition Against Domestic Violence](http://ncadv.org/give-back/donate)
 
-Environmental
+&nbsp;
+### <a name="environmental">Environmental Rights</a>
 
 [The Big Reuse](http://bigreuse.org/volunteer)
 
@@ -57,8 +81,9 @@ Environmental
 
 [Next Gen Climate](https://nextgenclimate.org/volunteer/)
 
+&nbsp;
 
-Immigration
+### <a name="immigration">Immigration Rights</a>
 
 [New York Immigration Coalition](http://thenyic.org/get-updates)
 
@@ -68,7 +93,9 @@ Immigration
 
 [Border Angels](http://www.borderangels.org/)
 
-LGBTQ
+&nbsp;
+
+### <a name="lgbtq">LGBTQ Rights</a>
 
 [The Ali Forney Center](http://aliforneycenter.org/get-involved)
 
@@ -76,7 +103,9 @@ LGBTQ
 
 [Mazzoni Center: healthcare and well-being](https://www.mazzonicenter.org/donate-now/volunteer-opportunities)
 
-People of Color
+&nbsp;
+
+### <a name="africanamerican"> African American Rights</a>
 
 [Showing Up for Racial Justice](http://www.showingupforracialjustice.org/about)
 
