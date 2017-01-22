@@ -26,6 +26,8 @@ A repo for collecting information about resources and opportunities for activism
 
 ### <a name="general">General Resources</a>
 
+[Daily Action](https://dailyaction.org/) - Receive one text message every workday about an issue that we have determined to be urgent based on where you live, with a link that redirects you to the relevant elected official.
+
 [Issue Voter](http://issuevoter.org/?mc_cid=a72f38e663&mc_eid=59898ad147) - App for receiving alerts before a bill passes on topics you care about, contact your representative directly to express your opinion.
 
 [RISE: citizen watchdog organization](http://www.risewhenwefall.org/) - The largest citizen watchdog organization in the US.
