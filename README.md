@@ -46,6 +46,10 @@ A repo for collecting information about resources and opportunities for activism
 
 [Code Corps](https://www.codecorps.org/) - Contribute to public software for good.
 
+[Flippable](https://www.flippable.org) - Gives data on the most flippable seats in local and state governments and provides meaningful actions to win through spreading awareness, volunteering, and donating.
+
+[Indivisible](https://www.indivisibleguide.com/) - A practical guide for resisting the Trump agenda.
+
 &nbsp;
 
 ### <a name="women">Women's Rights</a>
