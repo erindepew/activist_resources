@@ -50,6 +50,8 @@ A repo for collecting information about resources and opportunities for activism
 
 [Indivisible](https://www.indivisibleguide.com/) - A practical guide for resisting the Trump agenda.
 
+[Take Action NYC](http://takeactionnyc.com/nyc-protest-event-calendar/) - Event calendar of NYC protests, political actions, protests, demonstrations, workshops, organizing trainings, and planning meetings.
+
 &nbsp;
 
 ### <a name="women">Women's Rights</a>
